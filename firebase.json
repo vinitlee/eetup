@@ -1,0 +1,5 @@
+{
+  "firebase": "eetup",
+  "public": "app",
+  "rules": "config/security-rules.json"
+}
